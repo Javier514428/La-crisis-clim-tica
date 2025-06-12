@@ -5,8 +5,12 @@ la cuál sea capaz, en unos simples pasos, los cuáles serían:
  - Registrarse a la página web
  - Hacer una interfaz la cuál tenga 4 entradas
     - Eco-Calculadora
-      Esta estará diseñada para que puedas colocar tus entradas y que al
-      finalizar el cálculo te pregunte si lo contaminaste tu o no
+      Esta estará diseñada para que puedas colocar tus entradas y,
+      al procesar su salida, tener dos salidas, la de WTT (Del pozo al tanque),
+      TTW (Del tanque a la rueda) y WTW (Del pozo a la rueda) y que al
+      finalizar el cálculo te pregunte si lo contaminaste tu o no, algo
+      similar a esta página:
+      https://www.cevalogistics.com/es/eco-calculator
     - Mis Cálculos
       Esto estará diseñado para que te de los calculos más recientes que
       hayas hecho 
