@@ -15,7 +15,7 @@ la cuál sea capaz, en unos simples pasos, los cuáles serían:
       Esto estará diseñado para que te de los calculos más recientes que
       hayas hecho 
     - Juego: ¿Que contamina más?
-      Esta será una trivia la cuál tu pienses que contamina más entre dos
+      Esta será una trivia en la cuál tu pienses que contamina más entre dos
       opciones
     - ¿Cuanto he contaminado en total?
       Esto hara una suma de cuando tu pongas que has sido tu el que lo
@@ -30,4 +30,3 @@ La tecnologías que utilizaremos son:
   - Autorización de Usuario:
     Esto para que el usuario pueda tener su propia base de datos y sus
     propios cálculos
-  - 
