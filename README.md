@@ -1,4 +1,4 @@
-# La-crisis-clim-tica
+# La-crisis-climatica
 
 El concepto de este proyecto es hacer un sitio web de una Eco-Calculadora
 la cuál sea capaz, en unos simples pasos, los cuáles serían:
